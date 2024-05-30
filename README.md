@@ -11,4 +11,6 @@ b. What is a _pull request_?
      e. What is the difference between `git` and `GitHub`?
       The main difference is that git is a version control system used for tracking changes in files, while GitHub is a web-based platform that hosts Git repositories and provides collaboration features like issue tracking, pull requests, and project management. In essence, Git is the technology, and GitHub is a service built on top of Git.   
       f. What does `git diff` do?
-     git diff compares the current state of files in your working directory with their state in the staging area (index) or with a specific commit. It displays the line-by-line differences, highlighting additions (+) and deletions (-), allowing you to review the changes before staging or committing them.
+     git diff compares the current state of files in your working directory with their state in the staging area (index) or with a specific commit. It displays the line-by-line differences, highlighting additions (+) and deletions (-), allowing you to review the changes before staging or committing them.   
+     g. What is the `main` branc   
+     h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
